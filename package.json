@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barbaracabral/serverRestAPI.git"
+    "url": "git+https://github.com/iracisaueressig/serverRestAPI.git"
   },
   "keywords": [
     "test",
     "cypress",
     "xpeducacao"
   ],
-  "author": "Bárbara Cabral da Conceição",
+  "author": "Iraci",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barbaracabral/serverRestAPI/issues"
+    "url": "https://github.com/iracisaueressig/serverRestAPI/issues"
   },
-  "homepage": "https://github.com/barbaracabral/serverRestAPI#readme",
+  "homepage": "https://github.com/iracisaueressig/serverRestAPI#readme",
   "dependencies": {
     "cypress": "^10.11.0",
     "unique-names-generator": "^4.7.1"
